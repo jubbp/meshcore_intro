@@ -23,9 +23,9 @@ The network is community-led and maintained by local volunteers.
 
 You can explore the wider network using the live MeshMapper map below.
 
-<div class="map-embed">
+<div class="map-embed map-embed-wideview">
 	<iframe
-		src="https://buy.meshmapper.net/?location=Bunbury%2C%20WA"
+		src="https://buy.meshmapper.net/?location=Picton%20East%2C%20Bunbury%2C%20Western%20Australia%2C%206229%2C%20Australia"
 		title="MeshMapper Bunbury network map"
 		loading="lazy"
 		referrerpolicy="strict-origin-when-cross-origin">
