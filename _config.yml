@@ -1,0 +1,13 @@
+title: MeshCore Bunbury
+description: Learn MeshCore and connect with the Bunbury MeshCore community.
+theme: jekyll-theme-cayman
+show_downloads: false
+
+plugins:
+  - jekyll-seo-tag
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
