@@ -19,6 +19,21 @@ This page explains the local Bunbury network in plain language.
 
 The network is community-led and maintained by local volunteers.
 
+## Live network map
+
+You can explore the wider network using the live MeshMapper map below.
+
+<div class="map-embed">
+	<iframe
+		src="https://buy.meshmapper.net/?location=Bunbury%2C%20WA"
+		title="MeshMapper Bunbury network map"
+		loading="lazy"
+		referrerpolicy="strict-origin-when-cross-origin">
+	</iframe>
+</div>
+
+If the map does not load in your browser, open it directly at [MeshMapper Bunbury](https://buy.meshmapper.net/).
+
 As the network grows, this page can include:
 
 - Coverage map links

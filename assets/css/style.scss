@@ -60,6 +60,22 @@ body {
   border-radius: 0.25rem;
 }
 
+.map-embed {
+  overflow: hidden;
+  border: 1px solid #b5c8cd;
+  border-radius: 0.5rem;
+  background: #ffffff;
+  box-shadow: 0 10px 30px rgba(20, 33, 61, 0.08);
+  margin: 1rem 0;
+}
+
+.map-embed iframe {
+  display: block;
+  width: 100%;
+  min-height: 34rem;
+  border: 0;
+}
+
 .contact-form {
   display: grid;
   gap: 0.8rem;
