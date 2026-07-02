@@ -4,7 +4,7 @@ Public-facing introduction site for MeshCore and the local Bunbury MeshCore netw
 
 ## What this repo now includes
 
-- GitHub Pages compatible Jekyll setup using the `jekyll-theme-cayman` theme.
+- Jekyll setup using the `jekyll-theme-cayman` theme.
 - Beginner-friendly content pages:
 	- Home
 	- What is MeshCore
@@ -15,18 +15,17 @@ Public-facing introduction site for MeshCore and the local Bunbury MeshCore netw
 
 ## Quick start (GitHub Pages)
 
-1. Push this repository to GitHub.
-2. In GitHub: **Settings -> Pages**
-3. Set source to deploy from your main branch (root).
-4. Confirm the site builds.
+1. Push this repository to your hosting platform.
+2. Enable static site publishing from the repository root.
+3. Confirm the site builds successfully.
 
 ## Custom domain (CNAME)
 
 1. Replace the placeholder value in `CNAME` with your real domain.
 2. In your DNS provider:
-	 - Set `www` as a `CNAME` to `<your-github-username>.github.io`
-	 - Set root/apex records as required by GitHub Pages documentation.
-3. In GitHub Pages settings, set the same custom domain and enable HTTPS after certificate provisioning.
+	 - Set `meshcore` as a `CNAME` to your site host target.
+	 - Set root/apex records as required by your host documentation.
+3. In your hosting settings, set the same custom domain and enable HTTPS after certificate provisioning.
 
 ## Contact form setup (Formspree)
 
