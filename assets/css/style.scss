@@ -72,8 +72,14 @@ body {
 .map-embed iframe {
   display: block;
   width: 100%;
-  min-height: 34rem;
+  min-height: 48rem;
   border: 0;
+}
+
+@media (max-width: 768px) {
+  .map-embed iframe {
+    min-height: 36rem;
+  }
 }
 
 .contact-form {
