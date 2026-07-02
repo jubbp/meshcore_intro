@@ -26,3 +26,4 @@ Visit [Get Connected]({{ '/get-connected/' | relative_url }}) for practical next
   <strong>Community-first guidance:</strong> This introduction is written for beginners, families,
   local groups, and people with no prior mesh networking experience.
 </div>
+
