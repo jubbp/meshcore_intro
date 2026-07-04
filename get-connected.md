@@ -148,17 +148,4 @@ Use the existing CLI reference instead of duplicating commands here:
   </div>
 </section>
 
-## Live Bunbury map (for both streams)
 
-Whether you build or just use, the same local network is shared. You can see current Bunbury-area activity below.
-
-<div class="map-embed map-embed-wideview">
-  <iframe
-    src="https://buy.meshmapper.net/embed.php?lat=-33.345215&lon=115.7246545&meters=65000&geofence=0"
-    title="MeshMapper Bunbury network map"
-    loading="lazy"
-    referrerpolicy="strict-origin-when-cross-origin">
-  </iframe>
-</div>
-
-If the map does not load in your browser, open it directly at [MeshMapper Bunbury](https://buy.meshmapper.net/).
