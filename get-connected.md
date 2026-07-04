@@ -1,7 +1,7 @@
 ---
 title: Get Connected
 permalink: /get-connected/
-description: Step-by-step onboarding for Bunbury MeshCore with two paths: use the network quickly or build and flash your own node.
+description: "Step-by-step onboarding for Bunbury MeshCore with two paths: use the network quickly or build and flash your own node."
 ---
 
 <!-- markdownlint-disable MD033 MD012 MD032 -->
