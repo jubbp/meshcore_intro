@@ -41,6 +41,15 @@ https://formspree.io/f/xnjkgkor
 
 with your real Formspree endpoint.
 
+## Google Analytics setup
+
+1. Create or open your Google Analytics 4 property and copy the Measurement ID (for example, G-XXXXXXXXXX).
+2. Open _config.yml.
+3. Set google_analytics_id to your Measurement ID.
+4. Rebuild or redeploy the site.
+
+Analytics loading is conditional, so nothing is sent until google_analytics_id is set.
+
 ## Local preview (optional)
 
 If you want to run locally:

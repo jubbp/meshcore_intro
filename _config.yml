@@ -2,6 +2,7 @@ title: MeshCore Bunbury
 description: Learn MeshCore and connect with the Bunbury MeshCore community.
 theme: jekyll-theme-cayman
 show_downloads: false
+google_analytics_id: "G-E2KBHD8FYV"
 
 plugins:
   - jekyll-seo-tag
