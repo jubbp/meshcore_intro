@@ -50,6 +50,27 @@ with your real Formspree endpoint.
 
 Analytics loading is conditional, so nothing is sent until google_analytics_id is set.
 
+## Campaign landing URLs (QR and flyer)
+
+This site includes campaign-specific landing pages so you can track first-touch source in GA4.
+
+- Vehicle QR: /welcome/101/
+- Letterbox flyer: /welcome/102/
+
+Each landing page:
+
+- Shows a short welcome message.
+- Fires a campaign event (`campaign_landing`) if GA is available.
+- Redirects to the homepage after a short delay.
+- Uses UTM parameters in the redirect URL.
+
+To create more campaigns, copy one of the landing page files and update:
+
+- `permalink`
+- `campaign_key`
+- `redirect_to`
+- welcome text
+
 ## Local preview (optional)
 
 If you want to run locally:

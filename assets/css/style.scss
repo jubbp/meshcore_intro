@@ -275,6 +275,20 @@ body {
   background: #ce5a40;
 }
 
+.campaign-landing {
+  max-width: 48rem;
+  margin: 1.5rem auto;
+  padding: 1.35rem;
+}
+
+.campaign-landing h1 {
+  margin-top: 0;
+}
+
+.campaign-landing-note {
+  color: rgba(20, 33, 61, 0.78);
+}
+
 .visually-hidden {
   position: absolute;
   left: -10000px;
@@ -289,5 +303,9 @@ body {
   .feature-grid,
   .diagram-card-full {
     grid-template-columns: 1fr;
+  }
+
+  .campaign-landing {
+    margin: 1rem 0;
   }
 }

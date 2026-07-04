@@ -1,0 +1,36 @@
+<div class="campaign-landing card">
+  <p class="eyebrow">{{ page.campaign_label | default: "Welcome" }}</p>
+  <h1>{{ page.welcome_heading | default: "Welcome to MeshCore Bunbury" }}</h1>
+  <p>{{ page.welcome_body | default: "Thanks for dropping by. We are taking you to the main site now." }}</p>
+  <p class="campaign-landing-note">Loading the main site in a moment...</p>
+  <p>
+    <a class="button button-primary" href="{{ page.redirect_to | default: '/' | relative_url }}">Continue now</a>
+  </p>
+</div>
+
+<script>
+  (function () {
+    var delay = {{ page.redirect_delay_ms | default: 2400 }};
+    var target = {{ page.redirect_to | default: '/' | relative_url | jsonify }};
+    var campaign = {{ page.campaign_key | default: 'unknown' | jsonify }};
+
+    if (typeof window.gtag === "function") {
+      window.gtag("event", "campaign_landing", {
+        campaign_name: campaign,
+        landing_path: window.location.pathname,
+        landing_url: window.location.href
+      });
+    }
+
+    window.setTimeout(function () {
+      window.location.href = target;
+    }, delay);
+  })();
+</script>
+
+<noscript>
+  <p>
+    JavaScript is disabled. Continue to the homepage:
+    <a href="{{ page.redirect_to | default: '/' | relative_url }}">Go to MeshCore Bunbury</a>
+  </p>
+</noscript>
