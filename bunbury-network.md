@@ -25,7 +25,7 @@ You can explore the wider network using the live MeshMapper map below.
 
 <div class="map-embed map-embed-wideview">
 	<iframe
-		src="https://buy.meshmapper.net/?location=Picton%20East%2C%20Bunbury%2C%20Western%20Australia%2C%206229%2C%20Australia"
+		src="https://buy.meshmapper.net/embed.php?lat=-33.345215&lon=115.7246545&meters=65000&geofence=0"
 		title="MeshMapper Bunbury network map"
 		loading="lazy"
 		referrerpolicy="strict-origin-when-cross-origin">
