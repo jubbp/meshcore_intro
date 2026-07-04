@@ -9,9 +9,6 @@ permalink: /contact/
 
 Use this form to contact the Bunbury MeshCore team.
 
-<p class="notice">
-Replace the Formspree endpoint in this page before launch.
-</p>
 
 <form class="contact-form" action="https://formspree.io/f/xnjkgkor" method="POST">
   <label>
