@@ -7,7 +7,7 @@ permalink: /bunbury-network/
 
 The Meshcore network in the Bunbury area has been growing significantly lately and this page will give you an idea of the area covered. 
 
-The "meshers" in the area are actively building district nodes to ensure the network can operate anywhere in the greater Bunbury area.
+The “mesher people” in the area are actively building district nodes (repeaters) to ensure the network can operate anywhere in the greater Bunbury area.
 
 We have significant pressence in the Withers and Dalyellup regions and expanding coverage in the Treendale area.
 

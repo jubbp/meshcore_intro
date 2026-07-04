@@ -9,7 +9,7 @@ permalink: /what-is-meshcore/
 
 ## What Is MeshCore?
 
-MeshCore is a way for nearby devices and repeater nodes to pass messages along so people can communicate locally even when normal phone or internet services are unreliable.
+MeshCore is a way to pass messages from companion (personal) devices  and home based small repeaters into a local system so people can communicate even when normal phone or internet services are unreliable.
 
 In practical terms, it can help people:
 
