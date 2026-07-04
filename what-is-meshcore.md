@@ -1,6 +1,7 @@
 ---
 title: What Is MeshCore?
 permalink: /what-is-meshcore/
+description: Plain-language guide to what MeshCore is, how companion, local repeater, and district repeater roles work, and why it matters for local resilience.
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -10,6 +11,8 @@ permalink: /what-is-meshcore/
 ## What Is MeshCore?
 
 MeshCore is a way to pass messages from companion (personal) devices  and home based small repeaters into a local system so people can communicate even when normal phone or internet services are unreliable.
+
+MeshCore helps everyday people build resilient local communication networks for everyday communications, emergencies, community coordination, and learning.
 
 In practical terms, it can help people:
 

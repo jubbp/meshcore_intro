@@ -172,6 +172,33 @@ body {
   margin: 1.5rem 0 1.8rem;
 }
 
+.stream-split {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1rem 0 1.8rem;
+}
+
+.stream-card {
+  padding: 1.1rem;
+}
+
+.stream-detail-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 0.8rem 0 1.8rem;
+  align-items: start;
+}
+
+.stream-detail-card {
+  padding: 1.1rem;
+}
+
+.stream-detail-card h2 {
+  margin-top: 0;
+}
+
 .site-nav {
   display: flex;
   flex-wrap: wrap;
@@ -301,7 +328,9 @@ body {
 @media (max-width: 900px) {
   .hero-grid,
   .feature-grid,
-  .diagram-card-full {
+  .diagram-card-full,
+  .stream-split,
+  .stream-detail-grid {
     grid-template-columns: 1fr;
   }
 

@@ -1,6 +1,7 @@
 ---
 title: Bunbury Network
 permalink: /bunbury-network/
+description: Overview of the Bunbury MeshCore network, local coverage goals, and live MeshMapper map for the greater Bunbury area.
 ---
 
 {% include nav.html %}

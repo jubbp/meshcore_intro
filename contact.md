@@ -1,6 +1,7 @@
 ---
 title: Contact Us
 permalink: /contact/
+description: Contact the Bunbury MeshCore team for setup help, onboarding questions, and local network support.
 ---
 
 {% include nav.html %}

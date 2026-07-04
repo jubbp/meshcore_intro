@@ -1,6 +1,7 @@
 ---
 title: Welcome
 permalink: /welcome/110/
+description: Campaign 110 landing page for Bunbury MeshCore analytics tracking before redirecting to the main site.
 layout: default
 campaign_key: member_test_110
 campaign_label: Campaign 110

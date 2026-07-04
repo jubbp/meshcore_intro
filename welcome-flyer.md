@@ -1,6 +1,7 @@
 ---
 title: Welcome
 permalink: /welcome/102/
+description: Letterbox flyer landing page for Bunbury MeshCore campaign tracking before redirecting to the main site.
 layout: default
 campaign_key: letterbox_flyer
 campaign_label: Letterbox flyer campaign

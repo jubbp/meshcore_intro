@@ -1,6 +1,7 @@
 ---
 title: Welcome
 permalink: /welcome/101/
+description: Vehicle QR landing page for Bunbury MeshCore campaign tracking before redirecting to the main site.
 layout: default
 campaign_key: vehicle_qr
 campaign_label: Vehicle QR campaign

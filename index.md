@@ -1,5 +1,6 @@
 ---
 title: MeshCore in Bunbury
+description: Beginner-friendly introduction to MeshCore in Bunbury, focused on emergency communications, resilient networks, and getting connected locally.
 ---
 
 <!-- markdownlint-disable MD033 MD012 -->

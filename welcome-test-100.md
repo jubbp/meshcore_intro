@@ -1,6 +1,7 @@
 ---
 title: Welcome
 permalink: /welcome/100/
+description: Member test landing page for Bunbury MeshCore campaign tracking before redirecting to the main site.
 layout: default
 campaign_key: member_test
 campaign_label: Member testing campaign
