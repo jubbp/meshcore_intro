@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Resilient mesh routing</title>
+  <desc id="desc">Multiple nodes connect around a central point, showing rerouting through alternate paths.</desc>
+  <defs>
+    <linearGradient id="bg2" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbfb"/>
+      <stop offset="1" stop-color="#edf6f5"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" rx="40" fill="url(#bg2)"/>
+  <circle cx="722" cy="145" r="100" fill="#f5ddcf"/>
+  <circle cx="168" cy="150" r="72" fill="#d4eee7"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 365h540" stroke="#8bc8c2" stroke-width="12" opacity="0.5"/>
+    <path d="M270 225l160 140-160 140" stroke="#8bc8c2" stroke-width="12" opacity="0.5"/>
+    <path d="M630 225l-160 140 160 140" stroke="#8bc8c2" stroke-width="12" opacity="0.5"/>
+    <path d="M370 365c42-58 108-92 180-92s138 34 180 92" stroke="#e8a48f" stroke-width="10" opacity="0.8"/>
+    <path d="M370 365c42 58 108 92 180 92s138-34 180-92" stroke="#e8a48f" stroke-width="10" opacity="0.8"/>
+  </g>
+  <g>
+    <g transform="translate(270 225)">
+      <circle r="54" fill="#006d77"/>
+      <circle r="22" fill="#ffffff" opacity="0.9"/>
+      <path d="M-20 0h40M0-20v40" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(630 225)">
+      <circle r="54" fill="#2a9d8f"/>
+      <circle r="22" fill="#ffffff" opacity="0.9"/>
+      <path d="M-18-10c16-18 38-18 54 0M-12 8c10-10 20-10 30 0" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(270 505)">
+      <circle r="54" fill="#e76f51"/>
+      <circle r="22" fill="#ffffff" opacity="0.9"/>
+      <path d="M-18 10c16-18 38-18 54 0" fill="none" stroke="#ffffff" stroke-width="7" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(630 505)">
+      <circle r="54" fill="#006d77"/>
+      <circle r="22" fill="#ffffff" opacity="0.9"/>
+      <path d="M-24 0h48" stroke="#ffffff" stroke-width="8" stroke-linecap="round"/>
+    </g>
+    <g transform="translate(450 365)">
+      <circle r="68" fill="#f4e9d8" stroke="#e76f51" stroke-width="10"/>
+      <path d="M-24-10h48M-24 16h48" stroke="#e76f51" stroke-width="10" stroke-linecap="round"/>
+      <path d="M0-28v56" stroke="#e76f51" stroke-width="10" stroke-linecap="round"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 420" role="img" aria-labelledby="title desc">
+  <title id="title">MeshCore radio signal</title>
+  <desc id="desc">A single centered radio signal waveform on a transparent background.</desc>
+  <defs>
+    <style>
+      .signal-stroke { stroke: #2a9d8f; }
+    </style>
+  </defs>
+
+  <g opacity="0.45" stroke="#9aa3af" stroke-width="2">
+    <path d="M12 30V390"/>
+    <path d="M1388 30V390"/>
+  </g>
+
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M-120 210 H400" class="signal-stroke" stroke-width="6.2" opacity="0.98"/>
+    <path d="M400 210 L414 198 L426 222 L438 186 L450 234 L462 176 L474 242 L486 170 L498 246 L510 168 L522 244 L534 176 L546 230 L558 198 L570 212 L582 206 L594 214 L606 202 L618 218 L630 198 L642 226 L654 190 L666 236 L678 176 L690 244 L702 168 L714 246 L726 170 L738 240 L750 180 L762 224 L774 196 L786 212 L798 204 L810 216 L822 202 L834 220 L846 194 L858 228 L870 184 L882 238 L894 172 L906 244 L918 166 L930 246 L942 170 L954 238 L966 180 L978 224 L990 196 L1000 210" class="signal-stroke" stroke-width="3.8" opacity="0.95"/>
+    <path d="M1000 210 H1280" class="signal-stroke" stroke-width="6.2" opacity="0.98"/>
+  </g>
+</svg>

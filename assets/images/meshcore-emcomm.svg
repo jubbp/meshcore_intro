@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Emergency communications</title>
+  <desc id="desc">A handheld radio, alert signal waves, and a resilient local network motif.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#f8fbfc"/>
+      <stop offset="1" stop-color="#eef7f4"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="700" rx="40" fill="url(#sky)"/>
+  <circle cx="152" cy="126" r="80" fill="#d4eee7"/>
+  <circle cx="738" cy="146" r="110" fill="#f7ddd2"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M180 420c70-80 140-118 220-120s160 22 240 84" stroke="#8bc8c2" stroke-width="14" opacity="0.5"/>
+    <path d="M180 420c86 66 164 92 242 90s150-38 232-110" stroke="#8bc8c2" stroke-width="14" opacity="0.5"/>
+    <path d="M470 210v-40" stroke="#e76f51" stroke-width="12"/>
+    <path d="M425 218c-35-35-35-88 0-123" stroke="#e76f51" stroke-width="10"/>
+    <path d="M515 218c35-35 35-88 0-123" stroke="#e76f51" stroke-width="10"/>
+  </g>
+  <g transform="translate(312 236)">
+    <rect x="0" y="90" width="276" height="290" rx="42" fill="#14304f"/>
+    <rect x="34" y="130" width="208" height="112" rx="22" fill="#f4f7fb"/>
+    <rect x="34" y="264" width="208" height="70" rx="18" fill="#0f2238"/>
+    <rect x="34" y="350" width="100" height="18" rx="9" fill="#2a9d8f"/>
+    <rect x="152" y="350" width="90" height="18" rx="9" fill="#e76f51"/>
+    <circle cx="72" cy="379" r="16" fill="#f4f7fb"/>
+    <circle cx="126" cy="379" r="16" fill="#f4f7fb"/>
+    <circle cx="180" cy="379" r="16" fill="#f4f7fb"/>
+    <path d="M84 90V36c0-22 18-40 40-40h28" stroke="#14304f" stroke-width="20"/>
+    <path d="M172 0h-28" stroke="#2a9d8f" stroke-width="18" stroke-linecap="round"/>
+    <circle cx="118" cy="176" r="26" fill="#e76f51"/>
+    <circle cx="118" cy="176" r="10" fill="#ffffff" opacity="0.92"/>
+    <path d="M118 176h58" stroke="#e76f51" stroke-width="9" stroke-linecap="round"/>
+  </g>
+  <g fill="#2a9d8f">
+    <circle cx="184" cy="422" r="14"/>
+    <circle cx="286" cy="338" r="14"/>
+    <circle cx="610" cy="338" r="14"/>
+    <circle cx="712" cy="422" r="14"/>
+  </g>
+</svg>
