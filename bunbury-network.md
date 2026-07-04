@@ -5,23 +5,26 @@ permalink: /bunbury-network/
 
 {% include nav.html %}
 
-# Bunbury MeshCore Network
+The Meshcore network in the Bunbury area has been growing significantly lately and this page will give you an idea of the area covered. 
 
-This page explains the local Bunbury network in plain language.
+The "mesher" in the area are actively building district nodes to ensure the network can operate anytwhere in the greater Bunbury area.
+
+We have significant pressence in the Withers and Dalyellyp regions and expanding coverage in the Treendale area.
+
+Our first District node has bee deployed on the hills near Henty providing reliable links to most areas of Bunbury. Check out the coverage map below.
 
 ## Current goals
 
 - Grow local coverage responsibly
 - Help new members join with confidence
-- Keep documentation simple and practical
 
 ## How the network is run
 
-The network is community-led and maintained by local volunteers.
+The network is community-led and maintained by local volunteers. There is no one controller of the network as each user manages their little bit. With no central management, there is no one point more important that the rest. The is no single point of failue.
 
 ## Live network map
 
-You can explore the wider network using the live MeshMapper map below.
+You can explore the wider network using the live MeshMapper map below. The green squares on the mad indicate where communications with the network have been achieved.
 
 <div class="map-embed map-embed-wideview">
 	<iframe
@@ -33,9 +36,3 @@ You can explore the wider network using the live MeshMapper map below.
 </div>
 
 If the map does not load in your browser, open it directly at [MeshMapper Bunbury](https://buy.meshmapper.net/).
-
-As the network grows, this page can include:
-
-- Coverage map links
-- Recommended node locations
-- Local guidelines and channel usage
